@@ -13,7 +13,7 @@ table {
   background-color: Purple;
   color: white;
   text-align: center;
-	@@ -13,6 +19,7 @@ h1, h2, h3, p, table {
+
   outline-width: thin;
   margin-left: auto;
   margin-right: auto;
@@ -21,7 +21,7 @@ table {
 }
 
 h3 {
-	@@ -35,4 +42,5 @@ p {
+
   border: 5px solid white;
   outline-style: solid;
   outline-width: thin;
